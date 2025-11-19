@@ -1,5 +1,5 @@
 opam-version: "2.0"
-version: "dev"
+version: "3.1.0+ox"
 synopsis: "Parser for ocaml documentation comments"
 description: """
 Odoc_parser is a library for parsing the contents of OCaml documentation
